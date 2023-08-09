@@ -1,4 +1,4 @@
-# plantago_seed_microbiome
+## plantago seed microbiome
 
 Companion repository for the paper The microbial diversity and composition of seeds from Plantago lanceolata changes along a plant diversity gradient Yuri Pinheiro 1, 2; Michael Schloter 1, 2; Wolfgang Weisser 3; Yuanyuan Huang4,5, Stefanie Schulz 1*
 
